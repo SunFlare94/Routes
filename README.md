@@ -181,15 +181,15 @@ Your support helps me continue developing and maintaining Routes.
 
 ### Main Map View
 
-![Routes Main Map](./screenshot-1.png)
+![Routes Main Map](./Screenshot-1.png)
 
 ### Map Navigation
 
-![Routes Map Navigation](./screenshot-2.png)
+![Routes Map Navigation](./Screenshot-2.png)
 
 ### Application Interface
 
-![Routes Application Interface](./screenshot-3.png)
+![Routes Application Interface](./Screenshot-3.png)
 
 ---
 
