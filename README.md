@@ -6,9 +6,9 @@ Routes is designed for users who want to view offline map data on a Windows PC w
 
 ## Download
 
-Download the latest release of **Routes** from this repository.
+Download the latest release of **Routes** from this repository's **Releases** section.
 
-> **Note:** Routes is currently provided as a Windows `.exe` application.
+> **Note:** Routes is currently provided as a Windows `.exe` application packaged together with its required application files and folders.
 
 ## Features
 
@@ -21,15 +21,28 @@ Download the latest release of **Routes** from this repository.
 - Map reset controls
 - Dark-map viewing
 - Multiple offline map files can be loaded
+- No internet connection required for offline map viewing
 - No additional software installation required
-- Simple standalone Windows application
 
 ## System Requirements
 
 - **Windows 10 or later (64-bit)**
 - **OpenGL 4.0+ compatible GPU** with updated drivers
 - Internet connection is **not required for offline map viewing**
-- No additional software is required — everything needed by the application is bundled
+- No additional software installation is required
+
+## Installation
+
+1. Download the latest **Routes.7z** archive from the **Releases** section.
+2. Extract the **entire archive** to a folder of your choice.
+3. **Do not move, rename, or delete any files or folders from the extracted directory.**
+4. Make sure `Routes.exe`, the `_internal` folder, the `obf files` folder, and the other bundled application files remain together.
+5. Double-click `Routes.exe` to start Routes.
+6. Place your `.obf` map files inside the `obf files` folder.
+
+> **Important:** `Routes.exe` requires the included `_internal` folder and other bundled files to run correctly. Do not move or run `Routes.exe` separately from the extracted application directory.
+
+For the complete installation instructions, use the latest release information in the **Releases** section.
 
 ## Map Files
 
@@ -53,9 +66,12 @@ You can obtain `.obf` map files from:
 
 ## How to Use
 
-1. Double-click `Routes.exe`.
-2. The application automatically loads the available maps from the `obf files` folder.
-3. Use the mouse and keyboard controls below to navigate the map.
+1. Extract the complete Routes archive.
+2. Make sure the `_internal` folder and other bundled files remain in the same directory as `Routes.exe`.
+3. Place your `.obf` map files inside the `obf files` folder.
+4. Double-click `Routes.exe`.
+5. The application automatically loads the available maps from the `obf files` folder.
+6. Use the mouse and keyboard controls below to navigate the map.
 
 ## Controls
 
@@ -130,15 +146,19 @@ Paste the license key into the license field and activate Routes.
 
 ## Payments & Support
 
-Routes has **two separate payment options**: one for purchasing a license and one for making a casual donation. Please use the correct option for what you want to do.
+Routes has **separate payment options** for purchasing a license and optionally supporting the developer.
 
-### License Payment — $5 USD / ₹476.66 INR
+Please use the appropriate option for what you want to do.
+
+---
+
+### Routes License — $5 USD / ₹476.66 INR
 
 This section is for **purchasing a Routes license**.
 
 #### Option 1 — Razorpay Payment Link
 
-Pay the exact **$5 USD** license price through Razorpay:
+Pay the **$5 USD** Routes license price through Razorpay:
 
 **[Pay $5 USD for a Routes License](https://rzp.io/rzp/iDO2p0X)**
 
@@ -156,27 +176,39 @@ Scan the QR code using **Google Pay, PhonePe, Paytm, or another supported UPI ap
 
 After completing a license payment, provide your **Machine ID** to the developer so that a unique license key can be generated for your computer.
 
-### Casual Donation / Support
+---
 
-This section is for anyone who wants to **support the development of Routes without purchasing a license**.
+### Casual Support
 
-#### Razorpay Donation Link
+This section is for anyone who wants to **optionally support the development of Routes, my software projects, digital artwork, or other projects** without purchasing a Routes license.
+
+#### Razorpay Support
 
 You can make a casual contribution through Razorpay:
 
-**[Make a Casual Donation via Razorpay](https://razorpay.me/@SunFlare94)**
+**[Support My Work via Razorpay](https://razorpay.me/@SunFlare94)**
 
-#### Casual Donation UPI QR
+#### Razorpay UPI QR
 
-You can also scan the **original casual-support QR code** using **Google Pay, PhonePe, Paytm, or another supported UPI application**.
+You can also scan the casual-support QR code using **Google Pay, PhonePe, Paytm, or another supported UPI application**.
 
-![Casual Donation - Razorpay UPI QR Code](QrCode.jpeg)
+![Casual Support - Razorpay UPI QR Code](QrCode.jpeg)
 
-> **Important:** The QR code and link in this section are for **optional donations/support only**. They are separate from the $5 USD / ₹476.66 INR Routes license payment.
+#### PayPal Support
+
+You can also support my work through PayPal.
+
+**[Support My Work — PayPal](https://www.paypal.com/ncp/payment/G2365LFLKNKSA)**
+
+The PayPal payment page allows you to **choose the amount you would like to contribute**.
+
+![Support My Work - PayPal QR Code](Support-My-Work-qrcode.png)
+
+> **Important:** The Razorpay and PayPal options in this section are for **optional support only**. They are separate from the **$5 USD / ₹476.66 INR Routes license payment**.
 
 You can also support the project through **[GitHub Sponsors](https://github.com/sponsors/SunFlare94)**.
 
-Thank you for supporting the continued development of Routes!
+Thank you for supporting the continued development of Routes and my other projects!
 
 ## Screenshots
 
@@ -199,8 +231,8 @@ Thank you for supporting the continued development of Routes!
 - **Map engine:** OsmAnd Core
 - **UI:** PySide6 (Qt)
 - **Map format:** `.obf`
-- **Application type:** Standalone Windows desktop application
-- **Distribution:** Windows executable (`Routes.exe`)
+- **Application type:** Windows desktop application
+- **Distribution:** Windows executable (`Routes.exe`) with required bundled files
 
 ## Privacy
 
@@ -226,3 +258,7 @@ Third-party components and map data may have their own licenses and terms.
 **Mukul Pramanik (SunFlare94)**
 
 Platform: Windows 10+ (64-bit)
+
+GitHub: [SunFlare94](https://github.com/SunFlare94)
+
+DeviantArt: [SunFlare94](https://www.deviantart.com/sunflare94)
