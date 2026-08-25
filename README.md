@@ -50,7 +50,7 @@ After the trial expires, a valid license key is required to continue using Route
 
 Routes uses **OsmAnd `.obf` map files**.
 
-### How to get map files
+### How to Get Map Files
 
 1. Download `.obf` map files from:
    **https://download.osmand.net/**
@@ -117,7 +117,7 @@ Your unique **Machine ID** will be displayed.
 
 ### 3. Make the Payment
 
-You can purchase your license through Razorpay.
+You can purchase your Routes license through Razorpay.
 
 **[Pay securely through Razorpay](https://razorpay.me/@SunFlare94)**
 
@@ -167,7 +167,7 @@ You can also pay using the QR code below.
 
 Scan the QR code with **Google Pay, PhonePe, Paytm, or any other supported UPI application**.
 
-![Razorpay UPI QR Code](QrCode.jpeg)
+![Razorpay UPI QR Code](./QrCode.jpeg)
 
 After completing the payment, please provide your **Machine ID** so that a unique license key can be generated for your computer.
 
@@ -181,15 +181,15 @@ Your support helps me continue developing and maintaining Routes.
 
 ### Main Map View
 
-![Routes Screenshot 1](Screenshot%201.png)
+![Routes Main Map](./screenshot-1.png)
 
 ### Map Navigation
 
-![Routes Screenshot 2](Screenshot%202.png)
+![Routes Map Navigation](./screenshot-2.png)
 
 ### Application Interface
 
-![Routes Screenshot 3](Screenshot%203.png)
+![Routes Application Interface](./screenshot-3.png)
 
 ---
 
@@ -234,10 +234,22 @@ GitHub:
 
 ---
 
-## Support Development
+# Support Development
 
 If Routes is useful to you, consider supporting its continued development.
 
-**[GitHub Sponsors](https://github.com/sponsors/SunFlare94)** · **[Razorpay](https://razorpay.me/@SunFlare94)**
+## GitHub Sponsors
+
+**[Support via GitHub Sponsors](https://github.com/sponsors/SunFlare94)**
+
+## Razorpay
+
+**[Make a payment or contribution through Razorpay](https://razorpay.me/@SunFlare94)**
+
+## Pay via UPI
+
+You can also support the project by scanning the QR code below using **Google Pay, PhonePe, Paytm, or any other UPI app**.
+
+![Razorpay UPI QR Code](./QrCode.jpeg)
 
 Thank you for supporting independent software development! ❤️
