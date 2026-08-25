@@ -128,43 +128,53 @@ Paste the license key into the license field and activate Routes.
 
 > **Important:** Your license key is tied to your machine. If you change computers, a new license may be required.
 
-## Purchase / Support
+## Payments & Support
 
-If you enjoy Routes and would like to support its continued development, you can use the payment options below.
+Routes has **two separate payment options**: one for purchasing a license and one for making a casual donation. Please use the correct option for what you want to do.
 
-### GitHub Sponsors
+### License Payment — $5 USD / ₹476.66 INR
 
-You can support the project through GitHub Sponsors:
+This section is for **purchasing a Routes license**.
 
-https://github.com/sponsors/SunFlare94
+#### Option 1 — Razorpay Payment Link
 
-### Razorpay — $5 License Payment Link
-
-Purchase a Routes license for the exact **$5 USD** license price using the Razorpay Payment Link:
+Pay the exact **$5 USD** license price through Razorpay:
 
 **[Pay $5 USD for a Routes License](https://rzp.io/rzp/iDO2p0X)**
 
-After completing the payment, please provide your **Machine ID** so that a unique license key can be generated for your computer.
+#### Option 2 — Razorpay UPI QR
 
-### Pay for a Routes License via UPI — ₹476.66
+For Indian UPI payments, use the fixed-amount QR code below.
 
-Indian users can also purchase a Routes license using the fixed-amount Razorpay UPI QR code below.
-
-The license QR code is configured for **₹476.66 INR**.
+**License price: ₹476.66 INR**
 
 Scan the QR code using **Google Pay, PhonePe, Paytm, or another supported UPI application**.
 
 ![Routes License - Razorpay UPI QR Code](QrCode1.jpeg)
 
-> **License payment:** This QR code is for the Routes license and charges the fixed INR amount shown above. The $5 USD option is available through the Razorpay Payment Link.
+> **Important:** The QR code above is for the **Routes license** and is configured for the fixed amount of **₹476.66 INR**. The Razorpay Payment Link above is the **$5 USD** license payment option.
 
-### Casual Support / Donation
+After completing a license payment, provide your **Machine ID** to the developer so that a unique license key can be generated for your computer.
 
-If you would like to support the development of Routes **without purchasing a license**, you can make a casual contribution using the original Razorpay UPI QR code below.
+### Casual Donation / Support
 
-This QR code is for **optional donations/support** and is separate from the fixed-price Routes license payment.
+This section is for anyone who wants to **support the development of Routes without purchasing a license**.
 
-![Casual Support - Razorpay UPI QR Code](QrCode.jpeg)
+#### Razorpay Donation Link
+
+You can make a casual contribution through Razorpay:
+
+**[Make a Casual Donation via Razorpay](https://razorpay.me/@SunFlare94)**
+
+#### Casual Donation UPI QR
+
+You can also scan the **original casual-support QR code** using **Google Pay, PhonePe, Paytm, or another supported UPI application**.
+
+![Casual Donation - Razorpay UPI QR Code](QrCode.jpeg)
+
+> **Important:** The QR code and link in this section are for **optional donations/support only**. They are separate from the $5 USD / ₹476.66 INR Routes license payment.
+
+You can also support the project through **[GitHub Sponsors](https://github.com/sponsors/SunFlare94)**.
 
 Thank you for supporting the continued development of Routes!
 
@@ -172,15 +182,15 @@ Thank you for supporting the continued development of Routes!
 
 ### Main Map View
 
-![Routes Main Map View](Screenshot%201.png)
+![Routes Main Map View](Screenshot-1.png)
 
 ### Map Navigation
 
-![Routes Map Navigation](Screenshot%202.png)
+![Routes Map Navigation](Screenshot-2.png)
 
 ### Application Interface
 
-![Routes Application Interface](Screenshot%203.png)
+![Routes Application Interface](Screenshot-3.png)
 
 ## Technical Details
 
@@ -216,22 +226,3 @@ Third-party components and map data may have their own licenses and terms.
 **Mukul Pramanik (SunFlare94)**
 
 Platform: Windows 10+ (64-bit)
-
-## Support Development
-
-If Routes is useful to you, consider supporting its continued development.
-
-### Purchase a License
-
-- [Razorpay — Purchase $5 Routes License](https://rzp.io/rzp/iDO2p0X)
-- **UPI License QR:** `QrCode1.jpeg` — fixed **₹476.66 INR**
-
-### Casual Donation
-
-If you simply want to support the project without purchasing a license, you can use the original casual-support QR code:
-
-![Casual Support QR Code](QrCode.jpeg)
-
-You can also support the project through [GitHub Sponsors](https://github.com/sponsors/SunFlare94).
-
-Thank you for supporting independent software development!
