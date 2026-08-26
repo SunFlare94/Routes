@@ -118,13 +118,13 @@ Your application will display your **Machine ID**.
 
 Copy this Machine ID.
 
-### 3. Pay $5 USD
+### 3. Pay $5 USD / ₹476.66 INR
 
-Use the Razorpay payment link below:
+Choose one of the payment options below:
 
-**Purchase Routes License — $5 USD**
-
-https://rzp.io/rzp/iDO2p0X
+- **Razorpay — $5 USD**
+- **Razorpay UPI — ₹476.66 INR**
+- **PayPal — $5 USD**
 
 ### 4. Send Your Machine ID
 
@@ -152,17 +152,17 @@ Please use the appropriate option for what you want to do.
 
 ---
 
-### Routes License — $5 USD / ₹476.66 INR
+## Routes License — $5 USD / ₹476.66 INR
 
 This section is for **purchasing a Routes license**.
 
-#### Option 1 — Razorpay Payment Link
+### Option 1 — Razorpay Payment Link
 
 Pay the **$5 USD** Routes license price through Razorpay:
 
-**[Pay $5 USD for a Routes License](https://rzp.io/rzp/iDO2p0X)**
+**[Pay $5 USD for a Routes License via Razorpay](https://rzp.io/rzp/iDO2p0X)**
 
-#### Option 2 — Razorpay UPI QR
+### Option 2 — Razorpay UPI QR
 
 For Indian UPI payments, use the fixed-amount QR code below.
 
@@ -174,37 +174,55 @@ Scan the QR code using **Google Pay, PhonePe, Paytm, or another supported UPI ap
 
 > **Important:** The QR code above is for the **Routes license** and is configured for the fixed amount of **₹476.66 INR**. The Razorpay Payment Link above is the **$5 USD** license payment option.
 
-After completing a license payment, provide your **Machine ID** to the developer so that a unique license key can be generated for your computer.
+### Option 3 — PayPal Payment Link
+
+You can also purchase the **$5 USD Routes license through PayPal**.
+
+**[Pay $5 USD for a Routes License via PayPal](https://www.paypal.com/ncp/payment/4JDGD4D6BV5G8)**
+
+### Option 4 — PayPal QR Code
+
+You can scan the PayPal QR code below to open the **Routes License payment page**.
+
+**License price: $5 USD**
+
+![Routes License - PayPal QR Code](Routes%20License-qrcode.png)
+
+> **Important:** The PayPal payment link and QR code above are for the **Routes license** and the license price is **$5 USD**.
+
+After completing a license payment through **Razorpay or PayPal**, provide your **Machine ID** to the developer so that a unique license key can be generated for your computer.
 
 ---
 
-### Casual Support
+## Casual Support
 
 This section is for anyone who wants to **optionally support the development of Routes, my software projects, digital artwork, or other projects** without purchasing a Routes license.
 
-#### Razorpay Support
+### Razorpay Support
 
 You can make a casual contribution through Razorpay:
 
 **[Support My Work via Razorpay](https://razorpay.me/@SunFlare94)**
 
-#### Razorpay UPI QR
+### Razorpay UPI QR
 
 You can also scan the casual-support QR code using **Google Pay, PhonePe, Paytm, or another supported UPI application**.
 
 ![Casual Support - Razorpay UPI QR Code](QrCode.jpeg)
 
-#### PayPal Support
+### PayPal Support
 
 You can also support my work through PayPal.
 
-**[Support My Work — PayPal](https://www.paypal.com/ncp/payment/G2365LFLKNKSA)**
-
 The PayPal payment page allows you to **choose the amount you would like to contribute**.
+
+**[Support My Work — PayPal](https://www.paypal.com/ncp/payment/G2365LFLKNKSA)**
 
 ![Support My Work - PayPal QR Code](Support-My-Work-qrcode.png)
 
 > **Important:** The Razorpay and PayPal options in this section are for **optional support only**. They are separate from the **$5 USD / ₹476.66 INR Routes license payment**.
+
+### GitHub Sponsors
 
 You can also support the project through **[GitHub Sponsors](https://github.com/sponsors/SunFlare94)**.
 
